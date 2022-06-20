@@ -1,0 +1,14 @@
+{
+  "name": "vicbotv3",
+  "version": "1.0.0",
+  "description": "bot to handle weed smokers",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "me",
+  "license": "ISC"
+}
